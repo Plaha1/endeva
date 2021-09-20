@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+"GDM7SU3EROQFII3Z3I6KS7WRBICN6IQU46MNJOO7JQJJKX6NOWIY3IHY"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
+ORG_DESCRIPTION="Endeva helps transform systems.We focus on four topics: food and agriculture, energy, health and mobility.Endeva enables inclusive system innovations. We support partners from all sectors to create systems that serve people and planet, and to transform their own role towards these future systems."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/7pL4y5J/lemon.png"
+ORG_LOGO="https://i.ibb.co/2FhTWmV/Endava-logo-site.png"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="xLEM"
-issuer="GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+code="Endeva"
+issuer="GDM7SU3EROQFII3Z3I6KS7WRBICN6IQU46MNJOO7JQJJKX6NOWIY3IHY"
 anchor_asset="false"
-name="Lemon Coin"
-desc="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
-image="https://i.ibb.co/7pL4y5J/lemon.png"
+name="Endeva"
+desc="Endeva helps transform systems.We focus on four topics: food and agriculture, energy, health and mobility.Endeva enables inclusive system innovations. We support partners from all sectors to create systems that serve people and planet, and to transform their own role towards these future systems."
+image="https://i.ibb.co/2FhTWmV/Endava-logo-site.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#LemonCoin was issued using the open and inclusive Stellar blockchain network.
+#Endeva was issued using the open and inclusive Stellar blockchain network.
